@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: comments-service
+  data:
+    mongodb:
+      port: 27017
+      host: localhost
+      database: comments-service-db
+server:
+  port: 8100
+
+#Let this application know about the existing eureka server's url.
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761/eureka
+
+#Feign/Ribbon application name will be mapped with these urls.
+#Commented below, because eureka would automatically discover registered service and thus, instances would be picked up.
+#user-service:
+#  ribbon:
+#    listOfServers: http://localhost:8000, http://localhost:8001

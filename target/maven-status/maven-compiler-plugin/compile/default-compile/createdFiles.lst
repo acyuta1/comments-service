@@ -1,0 +1,9 @@
+com\acyuta\microservices\commentsservice\domain\controller\CommentsController.class
+com\acyuta\microservices\commentsservice\domain\dto\UserDto.class
+com\acyuta\microservices\commentsservice\domain\converter\CommentConverter.class
+com\acyuta\microservices\commentsservice\domain\service\CommentService.class
+com\acyuta\microservices\commentsservice\domain\service\CommentRepository.class
+com\acyuta\microservices\commentsservice\CommentsServiceApplication.class
+com\acyuta\microservices\commentsservice\domain\proxy\UserServicesProxy.class
+com\acyuta\microservices\commentsservice\domain\model\Comment.class
+com\acyuta\microservices\commentsservice\domain\service\CommentServiceImpl.class

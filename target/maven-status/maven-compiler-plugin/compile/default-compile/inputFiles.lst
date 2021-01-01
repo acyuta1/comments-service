@@ -1,0 +1,9 @@
+C:\Professional\Courses\Microservices\comments-service-1\comments-service\src\main\java\com\acyuta\microservices\commentsservice\domain\controller\CommentsController.java
+C:\Professional\Courses\Microservices\comments-service-1\comments-service\src\main\java\com\acyuta\microservices\commentsservice\domain\service\CommentRepository.java
+C:\Professional\Courses\Microservices\comments-service-1\comments-service\src\main\java\com\acyuta\microservices\commentsservice\domain\converter\CommentConverter.java
+C:\Professional\Courses\Microservices\comments-service-1\comments-service\src\main\java\com\acyuta\microservices\commentsservice\domain\model\Comment.java
+C:\Professional\Courses\Microservices\comments-service-1\comments-service\src\main\java\com\acyuta\microservices\commentsservice\CommentsServiceApplication.java
+C:\Professional\Courses\Microservices\comments-service-1\comments-service\src\main\java\com\acyuta\microservices\commentsservice\domain\proxy\UserServicesProxy.java
+C:\Professional\Courses\Microservices\comments-service-1\comments-service\src\main\java\com\acyuta\microservices\commentsservice\domain\service\CommentServiceImpl.java
+C:\Professional\Courses\Microservices\comments-service-1\comments-service\src\main\java\com\acyuta\microservices\commentsservice\domain\service\CommentService.java
+C:\Professional\Courses\Microservices\comments-service-1\comments-service\src\main\java\com\acyuta\microservices\commentsservice\domain\dto\UserDto.java
